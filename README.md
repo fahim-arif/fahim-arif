@@ -53,4 +53,4 @@ I am Fahim, a passionate web developer with over four years of industry experien
 
 <a href="http://www.github.com/fahim-arif"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-arif&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/fahim-arif"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=fahim-arif&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahim-arif)](https://github.com/ashutosh00710/github-readme-activity-graph)
