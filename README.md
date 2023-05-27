@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Full Stack Developer
 ---------------------------
 
-I am Fahim, a passionate web developer with over four years of industry experience, specializing in both frontend and backend development. I've had the privilege to work with companies like Cudo B2Work, Civilizedsoftware, Twomatches.xyz, Primates Development, and Diligite.com, honing my skills across a wide range of technologies. One of my defining strengths is the ability to adapt and take on responsibilities that align with my expertise. I take pride in delivering projects successfully while ensuring client satisfaction. I believe that the secret to a successful project lies not just in the execution but also in seamless communication and mutual understanding. Staying up-to-date with the latest industry trends and technologies is something I am committed to. I continually seek opportunities to enhance my skills and knowledge, ensuring the services I offer are in line with the current tech landscape.
+I am Fahim, a passionate web developer with over four years of industry experience, specializing in both frontend and backend development. I've had the privilege to work with companies like Cudo B2Work, Civilizedsoftware, Twomatches.xyz, Primates Development, and Diligite.com, honing my skills across a wide range of technologies. 
+
+One of my defining strengths is the ability to adapt and take on responsibilities that align with my expertise. I take pride in delivering projects successfully while ensuring client satisfaction. 
+
+I believe that the secret to a successful project lies not just in the execution but also in seamless communication and mutual understanding. Staying up-to-date with the latest industry trends and technologies is something I am committed to. 
+
+I continually seek opportunities to enhance my skills and knowledge, ensuring the services I offer are in line with the current tech landscape.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [fahim.cuet77@gmail.com](mailto:fahim.cuet77@gmail.com)
