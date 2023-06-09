@@ -53,8 +53,6 @@ I am a big believer in always learning and I always look for chances to improve 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/fahim-arif"><img src="https://github-readme-stats.vercel.app/api?username=fahim-arif&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="fahim-arif's GitHub stats" /></a>
-
 <a href="http://www.github.com/fahim-arif"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-arif&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahim-arif&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
