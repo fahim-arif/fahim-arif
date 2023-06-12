@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Full Stack Developer
 ---------------------------
 
-Greetings, I am Fahim, a driven web developer boasting over four years of professional experience. I specialize in both frontend and backend development, and I've had the opportunity to sharpen my skills with diverse technologies while working with prominent companies including Cudo B2Work, Civilizedsoftware, Twomatches.xyz, Primates Development, and Diligite.com.
+Greetings, I am Fahim, a engineer boasting over four years of professional experience. I specialize in both frontend and backend development, and I've had the opportunity to sharpen my skills with diverse technologies while working with prominent companies including Cudo B2Work, Civilizedsoftware, Twomatches.xyz, Primates Development, and Diligite.com.
 
 I strongly believe that effective communication and mutual understanding serve as the bedrock of any successful team. I pride myself on being a vital team member, often acknowledged by my peers for my easy-going nature and strong collaborative abilities. This, coupled with my empathetic approach, facilitates effective teamwork.
 
