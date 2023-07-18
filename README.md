@@ -10,7 +10,6 @@ I strongly believe that effective communication and mutual understanding serve a
 
 I am a big believer in always learning and I always look for chances to improve my skills, making sure I keep up with the latest changes in technology. My professional journey has been guided by a steadfast commitment to growth, a cooperative mindset, and the mastery of technical expertise. Eager to leverage these strengths, I look forward to delivering compelling, high-impact solutions that contribute to the success of any project or organization I am associated with.
 
-* 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [fahim.cuet77@gmail.com](mailto:fahim.cuet77@gmail.com)
 * 🧠  I'm learning to integrate AI with web & mobile applications
 * 🤝  I'm open to collaborating on projects
