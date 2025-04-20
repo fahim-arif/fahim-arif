@@ -78,7 +78,7 @@ FreeCast is a streaming‑aggregation platform unifying live TV, apps, and media
 ---
 
 ## Resume & Blog
-- 📄 [Download my Resume (PDF)](https://your-site.com/fahim_resume.pdf)  
+- 📄 [Download my Resume (PDF)](https://raw.githubusercontent.com/fahim-arif/portfolio/4e5944101555ec31b28f86e3ac7d870fd1f5d9d3/public/fahimArif.pdf)  
 - ✍️ [Latest Blog: Mastering Async Functions and Promises in JavaScript](https://medium.com/@fahim.cuet77/mastering-async-functions-and-promises-in-javascript-2fc7683444e7)
 
 ---
