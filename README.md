@@ -8,9 +8,9 @@
 <!-- TOC -->
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
-  - [🖥️ Front‑end](#-front-end)
-  - [🗄️ Back‑end & Languages](#-back-end--languages)
-  - [☁️ Cloud & DevOps](#-cloud--devops)
+  - [🖥️ Front‑end](#front-end)
+  - [🗄️ Back‑end & Languages](#back-end-languages)
+  - [☁️ Cloud & DevOps](#cloud-devops)
 - [Featured Project](#featured-project)
 - [Certifications & Badges](#certifications--badges)
 - [Resume & Blog](#resume--blog)
@@ -62,11 +62,12 @@ FreeCast is a streaming‑aggregation platform unifying live TV, apps, and media
 - Architected performance optimizations (SSR, code‑splitting)  
 - Implemented WCAG‑compliant accessibility and SEO improvements
 
-**Stack:** React.js • TypeScript • Redux • FastAPI • AWS •
+**Stack:**  
+React.js • TypeScript • Redux • FastAPI • AWS  
 
 **Impact:**  
-- +15% engagement from modernized UI  
-- –30% average page load time  
+- **+15%** engagement from modernized UI  
+- **–30%** average page load time  
 - Scaled to thousands of concurrent viewers
 
 ---
