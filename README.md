@@ -79,7 +79,7 @@ FreeCast is a streaming‑aggregation platform unifying live TV, apps, and media
 
 ## Resume & Blog
 - 📄 [Download my Resume (PDF)](https://your-site.com/fahim_resume.pdf)  
-- ✍️ [Latest Blog: Integrating GPT‑4 in React Native](https://fahim.dev/integrating-gpt4-react-native)
+- ✍️ [Latest Blog: Mastering Async Functions and Promises in JavaScript](https://medium.com/@fahim.cuet77/mastering-async-functions-and-promises-in-javascript-2fc7683444e7)
 
 ---
 
