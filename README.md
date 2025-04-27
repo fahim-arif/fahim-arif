@@ -21,9 +21,11 @@
 
 ---
 
+
+ with over 6 years of comprehensive experience
+
 ## About Me
-I’m **Fahim Arif**, a Senior Frontend Developer with **6+ years** of professional experience specializing in React.js, TypeScript, and Next.js. I led a UI/UX redesign that boosted engagement by **25%** and cut load times by **40%**.  
-I’m now deepening my skills in **Go**, **Kubernetes**, and **cloud‑native architectures**, building robust CI/CD pipelines and scalable microservices. I thrive in remote, agile teams across U.S. & European time zones, champion accessibility (WCAG) and SEO best practices, and love integrating AI into web & mobile apps.
+I’m **Fahim Arif**, a Full Stack Developer with **6+ years** of professional experience delivering scalable web applications, optimizing performance, and significantly improving user experiences. Demonstrated expertise in frontend-backend integration, consistently achieving measurable outcomes such as 50% higher user retention, 40% faster load times, and substantial revenue growth. I thrive in remote, agile teams across U.S. & European time zones, champion accessibility (WCAG) and love integrating AI into web & mobile apps.
 
 ---
 
