@@ -8,102 +8,100 @@
 <!-- TOC -->
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
+  - [🗄️ Back‑end & Data](#back-end--data)
+  - [☁️ Cloud & DevOps](#cloud--devops)
+  - [🎬 Streaming & Media](#streaming--media)
   - [🖥️ Front‑end](#front-end)
-  - [🗄️ Back‑end & Languages](#back-end-languages)
-  - [☁️ Cloud & DevOps](#cloud-devops)
-- [Featured Project](#featured-project)
-- [Certifications & Badges](#certifications--badges)
-- [Resume & Blog](#resume--blog)
-- [Testimonials](#testimonials)
-- [What I’m Learning](#what-im-learning)
+- [Building Now](#building-now)
+- [Selected Work](#selected-work)
+- [Learning Now](#learning-now)
+- [Resume](#resume)
 - [Contact Me](#contact-me)
 <!-- /TOC -->
 
 ---
 
-
- with over 6 years of comprehensive experience
-
 ## About Me
-I’m **Fahim Arif**, a Full Stack Developer with **6+ years** of professional experience delivering scalable web applications, optimizing performance, and significantly improving user experiences. Demonstrated expertise in frontend-backend integration, consistently achieving measurable outcomes such as 50% higher user retention, 40% faster load times, and substantial revenue growth. I thrive in remote, agile teams across U.S. & European time zones, champion accessibility (WCAG) and love integrating AI into web & mobile apps.
+I’m **Fahim Arif**, a backend‑leaning full‑stack engineer with **7+ years** of experience building backend services and full‑stack products in **Node.js and TypeScript**, including **3 years on a large video streaming platform**. I design REST APIs, data models and service integrations on **PostgreSQL, Redis and AWS**, and I debug production issues end to end, from API data defects to DRM, ad‑insertion and adaptive‑streaming failures.
+
+Based in Dhaka, Bangladesh. Fully remote for 7 years, with 4+ hours of overlap with US Eastern.
 
 ---
 
 ## Tech Stack
 
-### 🖥️ Front‑end
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="24" align="middle" /> **TypeScript**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="24" align="middle" /> **React.js**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="24" align="middle" /> **Next.js**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="24" align="middle" /> **TailwindCSS**
-
-### 🗄️ Back‑end & Languages
+### 🗄️ Back‑end & Data
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="Node.js" width="24" align="middle" /> **Node.js**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" width="24" align="middle" /> **NestJS**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="24" align="middle" /> **Python**
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" width="24" align="middle" /> **Go**
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" width="24" align="middle" /> **NestJS** (also Express)
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="24" align="middle" /> **TypeScript**
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="24" align="middle" /> **Python** (Django)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24" align="middle" /> **PostgreSQL** (Prisma), MySQL, MongoDB
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="24" align="middle" /> **Redis**, BullMQ
 
 ### ☁️ Cloud & DevOps
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="24" align="middle" /> **Docker**
-- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="24" align="middle" /> **Kubernetes**
-- <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="AWS" width="24" align="middle" /> **AWS (Lambda, ECS, S3)**
-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="24" align="middle" /> **Azure**
-- **CI/CD:** GitHub Actions • Azure DevOps
+- <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="AWS" width="24" align="middle" /> **AWS** (EC2, S3, Lambda, RDS, Cognito, CloudFront)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="24" align="middle" /> **Docker**, Docker Compose
+- **CI/CD:** Azure DevOps
+
+### 🎬 Streaming & Media
+- **Players:** Shaka Player, hls.js
+- **Protocols:** HLS, DASH
+- **DRM:** FairPlay, Widevine
+- **AWS Media:** MediaPackage, MediaTailor, CloudFront CDN
+- **Also:** EPG systems
+
+### 🖥️ Front‑end
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="24" align="middle" /> **React.js**, Redux
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" alt="Next.js" width="24" align="middle" /> **Next.js**
 
 ---
 
-## Featured Project
+## Building Now
 
-### 🚀 [FreeCast](https://fahim-portfolio-delta.vercel.app/project/2)
+### 🚀 [vod-platform-api](https://github.com/fahim-arif/vod-platform-api)
 
-**Overview:**  
-FreeCast is a streaming‑aggregation platform unifying live TV, apps, and media under one intuitive UI.
-
-**Role & Contributions:**  
-- Led **Payment** integration and full **UI/UX redesign**  
-- Architected performance optimizations (SSR, code‑splitting)  
-- Implemented WCAG‑compliant accessibility and SEO improvements
+A video‑on‑demand backend, built in the open.
 
 **Stack:**  
-React.js • TypeScript • Redux • FastAPI • AWS  
+NestJS • PostgreSQL (Prisma) • Redis • BullMQ • Docker Compose
 
-**Impact:**  
-- **+15%** engagement from modernized UI  
-- **–30%** average page load time  
-- Scaled to thousands of concurrent viewers
-
----
-
-## Certifications & Badges
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20CSA-2024-blue)](#)  
-[![Coursera Full‑Stack Cloud Dev](https://img.shields.io/badge/Coursera%20Full--Stack%20Cloud--Dev-yellow)](#)
+**Design decisions:**  
+- Hybrid catalog: movies and series, seasons with their own metadata, episodes as children
+- Separate playable assets per title (trailers, alternate cuts)
+- Availability windows by region, plan and licensing period
+- Soft unpublish instead of hard delete, to preserve watch history
 
 ---
 
-## Resume & Blog
-- 📄 [Download my Resume (PDF)](https://raw.githubusercontent.com/fahim-arif/portfolio/4e5944101555ec31b28f86e3ac7d870fd1f5d9d3/public/fahimArif.pdf)  
-- ✍️ [Latest Blog: Mastering Async Functions and Promises in JavaScript](https://medium.com/@fahim.cuet77/mastering-async-functions-and-promises-in-javascript-2fc7683444e7)
+## Selected Work
+
+### 🎬 FreeCast (contract, 2023 to 2026)
+
+A large video streaming platform. I worked across the Python backend, the API layer and the playback stack.
+
+- Optimized slow Django endpoints with query optimization, indexing, N+1 fixes, Redis caching and pagination, cutting response times from a few seconds to a few hundred milliseconds.
+- Traced a catalog API defect that served mismatched titles under a live network filter and delivered the fix spec to the backend team.
+- Designed an auth token hardening plan: access tokens in memory, bearer‑token origin allowlisting, and backend‑issued HttpOnly refresh‑token cookies.
+- Resolved two production playback failures at the protocol level: a DASH ad‑insertion stall (codec‑string mismatch between AWS MediaPackage and MediaTailor manifests) and a Safari FairPlay DRM failure (EME/MediaKeys state corruption).
+- Reworked VOD package and entitlement resolution for a subscription package launch.
 
 ---
 
-## Testimonials
-> “Fahim delivered our MVP two weeks ahead of schedule and was proactive in communication.”  
-> — Karim Varela, CTO at Space Runners
-
-> “His deep knowledge of Next.js and AWS made our migration seamless.”  
-> — Antonio Brica, Engineering Manager at CUDO B2Work
+## Learning Now
+- System design
+- PostgreSQL performance
+- Redis and queues
+- AWS Solutions Architect Associate (in progress)
 
 ---
 
-## What I’m Learning
-- Go concurrency & microservices patterns  
-- Advanced Kubernetes operators & Helm  
-- Terraform for repeatable infrastructure  
-- AI‑driven testing with Cypress & Puppeteer
+## Resume
+📄 [Download my resume (PDF)](Fahim_Arif_Resume.pdf)
 
 ---
 
 ## Contact Me
-- 🌐 [Portfolio](https://fahim-portfolio-delta.vercel.app/)  
-- ✉️ fahim.cuet77@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fahim-arif/) • [GitHub](https://github.com/fahim-arif)
+- ✉️ fahim.cuet77@gmail.com
+
+Open to remote backend and full‑stack roles worldwide.
